@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v11.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v11.0": {
+      "ControlBoxForCustom.Demo/1.0.0": {
+        "dependencies": {
+          "ControlBoxForCustom": "1.0.0"
+        },
+        "runtime": {
+          "ControlBoxForCustom.Demo.dll": {}
+        }
+      },
+      "ControlBoxForCustom/1.0.0": {
+        "runtime": {
+          "ControlBoxForCustom.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ControlBoxForCustom.Demo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ControlBoxForCustom/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

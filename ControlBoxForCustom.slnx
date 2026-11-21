@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="ControlBoxForCustom.Demo/ControlBoxForCustom.Demo.csproj" />
+  <Project Path="ControlBoxForCustom/ControlBoxForCustom.csproj" />
+</Solution>

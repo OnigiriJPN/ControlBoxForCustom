@@ -1,0 +1,17 @@
+D:\Repos\ControlBoxForCustom\ControlBoxForCustom\bin\Debug\net11.0-windows\ControlBoxForCustom.deps.json
+D:\Repos\ControlBoxForCustom\ControlBoxForCustom\bin\Debug\net11.0-windows\ControlBoxForCustom.dll
+D:\Repos\ControlBoxForCustom\ControlBoxForCustom\bin\Debug\net11.0-windows\ControlBoxForCustom.pdb
+D:\Repos\ControlBoxForCustom\ControlBoxForCustom\obj\Debug\net11.0-windows\Themes\Generic.baml
+D:\Repos\ControlBoxForCustom\ControlBoxForCustom\obj\Debug\net11.0-windows\ControlBoxForCustom_MarkupCompile.cache
+D:\Repos\ControlBoxForCustom\ControlBoxForCustom\obj\Debug\net11.0-windows\ControlBoxForCustom.g.resources
+D:\Repos\ControlBoxForCustom\ControlBoxForCustom\obj\Debug\net11.0-windows\ControlBoxForCustom.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\ControlBoxForCustom\ControlBoxForCustom\obj\Debug\net11.0-windows\ControlBoxForCustom.AssemblyInfoInputs.cache
+D:\Repos\ControlBoxForCustom\ControlBoxForCustom\obj\Debug\net11.0-windows\ControlBoxForCustom.AssemblyInfo.cs
+D:\Repos\ControlBoxForCustom\ControlBoxForCustom\obj\Debug\net11.0-windows\ControlBoxForCustom.csproj.CoreCompileInputs.cache
+D:\Repos\ControlBoxForCustom\ControlBoxForCustom\obj\Debug\net11.0-windows\ControlBoxForCustom.dll
+D:\Repos\ControlBoxForCustom\ControlBoxForCustom\obj\Debug\net11.0-windows\refint\ControlBoxForCustom.dll
+D:\Repos\ControlBoxForCustom\ControlBoxForCustom\obj\Debug\net11.0-windows\ControlBoxForCustom.pdb
+D:\Repos\ControlBoxForCustom\ControlBoxForCustom\obj\Debug\net11.0-windows\ref\ControlBoxForCustom.dll
+D:\Repos\ControlBoxForCustom\ControlBoxForCustom\obj\Debug\net11.0-windows\ControlB.60A224C4.Up2Date
+D:\Repos\ControlBoxForCustom\ControlBoxForCustom\obj\Debug\net11.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\Repos\ControlBoxForCustom\ControlBoxForCustom\obj\Debug\net11.0-windows\ControlBoxForCustom_MarkupCompile.lref

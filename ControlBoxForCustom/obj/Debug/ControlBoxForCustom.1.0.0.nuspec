@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>ControlBoxForCustom</id>
+    <version>1.0.0</version>
+    <authors>ControlBoxForCustom</authors>
+    <description>Package Description</description>
+    <repository type="git" />
+    <dependencies>
+      <group targetFramework="net11.0-windows7.0" />
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework="net11.0-windows7.0">
+        <frameworkReference name="Microsoft.WindowsDesktop.App.WPF" />
+      </group>
+    </frameworkReferences>
+  </metadata>
+  <files>
+    <file src="D:\Repos\ControlBoxForCustom\ControlBoxForCustom\bin\Debug\net11.0-windows\ControlBoxForCustom.dll" target="lib\net11.0-windows7.0\ControlBoxForCustom.dll" />
+  </files>
+</package>
