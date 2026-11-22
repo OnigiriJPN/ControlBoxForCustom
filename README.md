@@ -15,4 +15,5 @@
 
 # ダウンロード
 
-ダウンロードは [ここをクリック](https://www.nuget.org/packages/ControlBoxForCustom/1.0.0) するとダウンロードが開始されます！
+ダウンロードは [ここをクリック](https://www.nuget.org/packages/ControlBoxForCustom/1.0.0) して
+「Download package」を押すとダウンロードが開始されます！
