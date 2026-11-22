@@ -13,6 +13,10 @@
   - [.NET 11 SDK](https://dotnet.microsoft.com/ja-jp/download/dotnet/11.0)
   - [Visual Studio 2026 (エディションはどれでもよい) 18.12.0以降](https://visualstudio.microsoft.com/ja/thank-you-downloading-visual-studio/?sku=Community&channel=Stable&version=VS18&source=VSLandingPage&passive=false&cid=2500)
 
+# 注意点
+
+- WindowChromeの設定
+  - ネイティブヒットテストを使用する場合、UseAeroCaptionButtonsを必ずTrueにしてください。
 # ダウンロード
 
 ダウンロードは [ここをクリック](https://www.nuget.org/packages/ControlBoxForCustom/1.0.0) して
